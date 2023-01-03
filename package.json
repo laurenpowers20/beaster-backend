@@ -16,7 +16,7 @@
   },
   "type": "module",
   "name": "beaster-backend",
-  "description": "",
+  "description": "Backend API for the band Beaster",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
